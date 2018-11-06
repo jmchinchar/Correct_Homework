@@ -1,0 +1,23 @@
+.square {
+
+
+
+	height: 250px;
+	width: 250px;
+	background-color: red;
+}
+
+
+#circle {
+	height: 250px;
+	width: 250px;
+	background-color: green;
+	border-radius: 50%;
+}
+
+
+
+.giant {
+	height: 400px;
+	width: 400px;
+}
